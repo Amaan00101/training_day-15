@@ -1,0 +1,2 @@
+[webservers]
+172.25.0.92 ansible_user=amaan ansible_ssh_pass=1234 ansible_become_pass=1234
